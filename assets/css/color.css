@@ -1,0 +1,121 @@
+/* Body Color ==========================*/
+.ns-client h3 span,
+.ns-team h3 span,
+.ns-helpfull-link a::before,
+.upper-meta > a:last-child,
+.upper-meta,
+.ns-playwrap span,
+p,
+body {
+	color: #454545;
+	color: #5b5b5b;
+	color: #6d7393;
+	color: #636663;
+}
+
+/* Heading Color ==========================*/
+.ns-404 > span,
+.about-project ul li span,
+.ns-plan-price,
+.featr-info,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	color: #313131;
+	color: #111945;
+	color: #111111;
+}
+/* Scheme Color @1 ==========================*/
+.ns-404 > span,
+.subtilte {
+	color: #6974dc;
+}
+.form-title::after {
+	background-color: #6974dc;
+}
+.form-title::before {
+	background-color: #20cbbd;
+}
+.sep-line::before,
+.subtilte::before,
+.ns-logo.navbar-brand::before,
+.ns-main-menu nav ul li.ns-active .nav-link::before,
+.ns-main-menu nav ul > li:hover .nav-link::before,
+.ns-main-menu nav ul > li .nav-link::before,
+.paginationz li.ns-next a:hover,
+.paginationz li.ns-prev a:hover,
+.ns-hexagon,
+.owl-theme .owl-dots .owl-dot.active span, 
+.owl-theme .owl-dots .owl-dot:hover span {
+	background-color: #610cef;
+}
+.theme-btn,
+.about-project a:hover,
+.ns-pop-post h5:hover,
+.ns-helpfull-link li a:hover,
+.ns-helpfull-link li a:hover::before,
+.ns-contact-info li:hover,
+.ns-tag a:hover,
+.ns-next-previous a:hover,
+.ns-blog .ns-postmeta > a:hover,
+.card-header,
+.ns-pricesign,
+.ns-logo.navbar-brand,
+/* .ns-main-menu .dropdown-item:focus,
+.ns-main-menu .dropdown-item:hover, */
+.ns-sideMenu ul:not(.be-social) li:hover > a,
+.ns-sideMenu ul:not(.be-social) a:hover,
+.ns-sideMenu ul:not(.be-social) a:focus,
+.ns-main-menu li:hover > a,
+.ns-main-menu a:hover,
+.ns-main-menu a:focus,
+.featr-info i,
+/* .subtilte, */
+.paginationz li.ns-next a,
+.paginationz li.ns-prev a,
+.paginationz li a.active,
+.paginationz li a:hover,
+.ns-link,
+.ns-tab li a span,
+.breadCrumb li::before,
+.ns-copyright a,
+.ns-newsletter strong,
+.upper-meta > a:last-child,
+.ns-blog:hover h3,
+.ns-funfact i,
+.ns-hexagon.ns-style2 i,
+.login-register p a,
+.sideElement > a {
+	color: #5e5cff;
+	color: #6974dc;
+	color: #610cef;
+}
+.ns-forgot a:hover,
+.paginationz li a.active,
+.paginationz li a:hover,
+.ns-hexagon:after,
+.ns-hexagon:before {
+	border-color: #610cef;
+}
+
+/* Scheme Color @2 ==========================*/
+
+.ns-client-img i,
+.ns-work-meta .openclose,
+.sep-line::after,
+.ns-playwrap:hover .ns-play,
+.subtilte::after,
+.ns-logo.navbar-brand::after {
+	background-color: #20cbbd;
+}
+.about-project ul li i,
+.card-header span,
+.ns-pointprice,
+.add-competr,
+.ns-list .fa.fa-check,
+.ns-play {
+	color: #20cbbd;
+}

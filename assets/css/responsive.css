@@ -1,0 +1,295 @@
+@media (max-height: 450px) {
+	.sideElement {
+		padding-top: 15px;
+	}
+	.sideElement > a {
+		font-size: 18px;
+	}
+}
+@media (max-width: 1024px) {
+	.ns-herosec h1 {
+		font-size: 35px;
+	}
+	.row > div:nth-child(3n+2) > .ns-services {
+		border-left-width: 1px;
+		border-right-width: 1px;
+	}
+	.row > div:nth-child(2n) > .ns-services {
+		border-left-width: 0;
+	}
+	.row > div:first-child > .ns-services {
+		border-bottom-width: 0;
+	}
+	.ns-pricing-box ul {
+		padding: 1.25rem 1rem 3rem;
+	}
+	.style2 .list-metadata {
+		padding: 0;
+	}
+	.ns-faq h3 {
+		padding: 25px 57px 25px 21px;
+	}
+	.ns-tab li {
+		background: #fff;
+	}
+	.ns-inner-pages aside {
+		margin-top: 50px;
+	}
+	.ns-project-detail > .row > div[class="col-sm-12"] {
+		margin-bottom: 30px;
+	}
+}
+@media (max-width: 768px) {
+	.ns-logo.navbar-brand {
+		font-size: 25px;
+	}
+	.ns-rlogin {
+		font-size: 16px;
+	}
+	p {
+		font-size: 16px;
+	}
+	.ns-block-box {
+		padding: 80px 0;
+	}
+	.ns-herosec {
+		text-align: center;
+	}
+	.ns-herosec .subtilte::after,
+	.ns-herosec .subtilte::before {
+		content: none;
+	}
+	.ns-herosec p {
+		font-size: 17px;
+		width: 80%;
+		margin-left: auto;
+		margin-right: auto;
+	}
+	.ns-herosec img {
+		width: 70%;
+		margin-bottom: 40px;
+	}
+	.ns-pricing-box .theme-btn,
+	.btn-hover {
+		font-size: 17px;
+		width: 185px;
+	}
+	.ns-analysis-form {
+		max-width: 80%;
+		margin-right: auto;
+		margin-left: auto;
+	}
+	.ns-img {
+		margin-bottom: 40px;
+	}
+	.ns-client-img img {
+		margin-bottom: 15px;
+	}
+	.ns-team h3 {
+		margin-top: 15px;
+	}
+	.ns-footer .widget,
+	.ns-blog,
+	.ns-pricing-box,
+	.ns-contact-form {
+		margin-bottom: 40px;
+	}
+	.ns-footer .container > .row,
+	.ns-blog-wrap,
+	.ns-pricing-wrap {
+		margin-bottom: -40px;
+	}
+	.ns-tab li {
+		padding: 35px 33px;
+	}
+	.ns-tab-content .row > div {
+		margin-bottom: 40px;
+	}
+	.ns-tab-content {
+		margin-bottom: -40px;
+	}
+	.comment-avatar {
+		width: 140px;
+		height: 140px;
+	}
+	.about-project {
+		padding: 30px;
+	}
+	.ns-404 > span {
+		font-size: 91px;
+	}
+	.ns-404 h2 {
+		font-size: 19px;
+	}
+	.ns-404 p {
+		font-size: 16px;
+	}
+
+}
+@media (max-width: 640px) {
+	.ns-herosec h1 {
+		font-size: 30px;
+	}
+	.ns-herosec p {
+		font-size: 16px;
+	}
+	h2 {
+		font-size: 23px;
+	}
+	.ns-funfact {
+		margin-bottom: 40px;
+	}
+	.ns-funfact-wrap {
+		margin-bottom: -40px;
+	}
+	.ns-hexagon.ns-style2 i {
+		font-size: 28px;
+	}
+	.row > div:nth-child(2n) > .ns-services {
+		border-left-width: 1px;
+	}
+	.row > div:nth-child(2) > .ns-services {
+		border-bottom-width: 0;
+	}
+	.ns-client-img img {
+		margin-bottom: auto;
+	}
+	.ns-map {
+		height: 300px;
+	}
+	.ns-tab li {
+		padding: 31px;
+	}
+	.comment-avatar {
+		width: 130px;
+		height: 130px;
+	}
+	.ns-heading p {
+		font-size: 16px;
+		margin-bottom: 0;
+	}
+}
+@media (max-width: 480px) {
+	.ns-rlogin > span {
+		display: none;
+	}
+	.ns-rlogin {
+		position: absolute;
+		right: 41px;
+		margin-top: -2px;
+	}
+	.ns-herosec img {
+		width: 75%;
+	}
+	.ns-herosec p {
+		width: 93%;
+	}
+	.ns-funfact .ns-content {
+		padding-left: 20px;
+	}
+	.ns-pricing-box .theme-btn,
+	.btn-hover {
+		font-size: 16px;
+		width: 175px;
+	}
+	.ns-client {
+		text-align: center;
+	}
+	.ns-client img {
+		max-width: 200px;
+		margin-right: auto;
+		margin-left: auto;
+		margin-bottom: 20px;
+		height: 200px;
+		-webkit-border-radius: 50%;
+		-moz-border-radius: 50%;
+		-ms-border-radius: 50%;
+		-o-border-radius: 50%;
+		border-radius: 50%;
+	}
+	.ns-team {
+		text-align: center;
+		margin-bottom: 10px;
+	}
+	.ns-team img {
+		max-width: 300px;
+	}
+	.ns-team p {
+		max-width: 71%;
+		margin-right: auto;
+		margin-left: auto;
+	}
+	.ns-team-carousel .owl-nav.disabled + .owl-dots {
+		margin-top: 21px;
+	}
+	.ns-tab li {
+		padding: 27px;
+	}
+	.comment-meta {
+		display: block;
+	}
+	.comment-content {
+		display: block;
+		padding-left: 0;
+		margin-top: 20px;
+	}
+	.ns-inner-pages .ns-postmeta {
+		padding: 20px 0;
+	}
+	.ns-404 > span {
+		font-size: 80px;
+		font-weight: 600;
+	}
+	.ns-404 h2 {
+		font-size: 17px;
+	}
+}
+@media (max-width: 414px) {
+	.ns-herosec img {
+		width: 80%;
+	}
+	.ns-herosec p {
+		width: auto;
+	}
+}
+@media (max-width: 375px) {
+	.sideElement {
+		max-width: 100%;
+		min-width: 100%;
+	}
+	.ns-team p {
+		max-width: 80%;
+	}
+	.ns-analysis-form {
+		max-width: 90%;
+	}
+	.ns-tab li {
+		padding: 21px;
+	}
+	.ns-tab li a i {
+		margin-bottom: 12px;
+	}
+}
+@media (max-width: 360px) {
+	.ns-team p {
+		max-width: 90%;
+	}
+	.ns-funfact i {
+		font-size: 50px;
+	}
+}
+
+@media (max-width: 320px) {
+	.ns-herosec .btn-hover {
+		padding: 18px 31px;
+	}
+	.ns-playwrap {
+		margin-left: 13px;
+	}
+	.ns-play {
+		margin-right: 11px;
+	}
+	.ns-funfact .ns-content {
+		padding-left: 15px;
+	}
+}
